@@ -1,6 +1,6 @@
 # 🌿 Plant Disease Detection using CNN in Google Colab
 
-This project demonstrates how to build and run a simple Convolutional Neural Network (CNN) for plant disease detection using the [PlantVillage dataset](https://www.kaggle.com/datasets/emmarex/plantdisease) in **Google Colab**. It walks through every step, from downloading the dataset with Kaggle API to training and testing a model.
+This project demonstrates how to build and run a simple Convolutional Neural Network (CNN) for plant disease detection using the [PlantVillage dataset](https://www.kaggle.com/datasets/emmarex/plantdisease) in **Google Colab**. It walks through every step, from downloading the dataset with the Kaggle API to training and testing a model.
 
 ---
 
@@ -57,6 +57,7 @@ Open [Google Colab](https://colab.research.google.com/), create a new notebook, 
 
 ---
 
-## 📌 License
+## 📄 License
 
-This project is free to use for educational purposes.
+This project is licensed under the [MIT License](LICENSE) © 2024 Pujah Balasubramaniam.
+
